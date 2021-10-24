@@ -27,5 +27,3 @@
 ## 📬 Контакты и резюме
 - Я на связи в telegram [@antonov_denis](https://t.me/antonov_denis)
 - Подробности в [резюме](https://docs.google.com/document/d/1DKmN1b_ciP4uaLu8hzaXRQCLqWskM-sDh1KNkFAVAxs/edit?usp=sharing)
-
-<a href="https://icons8.com/icon/tGvHBPJaKqEd/javascript" style="color:#f6f8fa;font-size:8px">JavaScript icon by Icons8</a>
