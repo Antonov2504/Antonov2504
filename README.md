@@ -26,5 +26,5 @@
 </p>
 
 ## 📬 Контакты и резюме
-- Я на связи в telegram [@antonov_denis](https://t.me/DenisAntonowww)
+- Я на связи в telegram [@DenisAntonowww](https://t.me/DenisAntonowww)
 - Подробности в [резюме](https://docs.google.com/document/d/1DKmN1b_ciP4uaLu8hzaXRQCLqWskM-sDh1KNkFAVAxs/edit?usp=sharing)
